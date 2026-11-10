@@ -53,6 +53,13 @@ Type in either terminal and press Enter. Type `/quit` in the client to leave,
 or in the server terminal to end the server. The complete history is retained
 at `data/chat-history.log` until you choose to remove that file.
 
+## Example session
+
+The client receives recent history when it connects, then prints new messages
+as they arrive.
+
+![BashTalk client connected to a local server](docs/images/client-chat.png)
+
 ## Chat between two laptops
 
 1. Put the laptops on the same trusted network.

@@ -1,0 +1,2 @@
+# Created by the server at runtime. Keep local conversations out of Git.
+data/chat-history.log
